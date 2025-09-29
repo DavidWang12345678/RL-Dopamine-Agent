@@ -280,7 +280,7 @@ def main():
     np.random.seed(42)
     random.seed(42)
     
-    output_dir = "/Users/david/Desktop/rl_dopamine_demo"
+    output_dir = "/outputs"
     config = ExperimentConfig()
     
     os.makedirs(output_dir, exist_ok=True)
