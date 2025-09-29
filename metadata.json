@@ -1,0 +1,13 @@
+{
+  "experiments": [
+    "baseline",
+    "unexpected_reward",
+    "reward_omission"
+  ],
+  "config": {
+    "total_episodes": 300,
+    "max_steps": 150,
+    "window_size": 30,
+    "manipulation_episodes": "150-180"
+  }
+}
