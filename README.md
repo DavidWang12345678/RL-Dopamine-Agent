@@ -1,11 +1,10 @@
 ## RL Dopamine Demo — Reward Prediction Errors (RPE)
 
 This small project demonstrates how temporal-difference (TD) error can act like a dopamine reward prediction error (RPE).
-Experiments: baseline, unexpected_reward (extra mid-training bonus), reward_omission (mid-training omission).
 
 Interpretation: unexpected reward produces positive RPE peaks; omission produces negative dips.
 
-## 📊 Results
+## Results
 
 ### Returns
 Learning performance across conditions (baseline, unexpected reward, omission):
