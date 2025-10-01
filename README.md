@@ -4,6 +4,7 @@ This small project demonstrates how temporal-difference (TD) error can act like 
 
 Interpretation: unexpected reward produces positive RPE peaks; omission produces negative dips.
 
+
 ## Results
 
 ### Returns
